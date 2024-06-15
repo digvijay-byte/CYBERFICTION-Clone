@@ -28,3 +28,6 @@ Navigate to the project directory: - cd cyberfiction
 Scroll through the website to see the interactive animations.
 The navigation bar remains fixed at the top of the page.
 The content changes and transitions smoothly as you scroll.
+
+
+Access images - https://drive.google.com/drive/folders/11xms0rv9kXrQBafK_H7J93nnW86MWbhX?usp=drive_link
