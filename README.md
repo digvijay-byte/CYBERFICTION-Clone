@@ -12,19 +12,19 @@ HTML
 CSS
 JavaScript
 Dependencies
-License
 
-Features
+
+#Features
 Smooth scrolling animations using Locomotive Scroll.
 Interactive animations and transitions powered by GSAP.
 Responsive design that adjusts to different screen sizes.
 Canvas animation that scales images based on the scroll position.
-Installation
+#Installation
 To run this project locally, follow these steps:
 
-Clone the repository: - git clone https://github.com/your-username/cyberfiction.git
+#Clone the repository: - git clone https://github.com/your-username/cyberfiction.git
 Navigate to the project directory: - cd cyberfiction
-Usage
+#Usage
 Scroll through the website to see the interactive animations.
 The navigation bar remains fixed at the top of the page.
 The content changes and transitions smoothly as you scroll.
